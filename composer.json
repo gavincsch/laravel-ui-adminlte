@@ -23,7 +23,7 @@
     "require": {
         "php": "^7.3||^8.0",
         "illuminate/support": "^8.0",
-        "gavincsch/laravel-generator-helpers": "^3.0",
+        "gavincsch/laravel-generator-helpers": "^3.0.1",
         "laravel/ui": "^3.0"
     },
     "autoload": {
